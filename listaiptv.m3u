@@ -1,0 +1,57 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwRfPcX-Y60AeqAZxPMIa1AL1qMwRgiT-hBYIfjNwMTJ9c5mo" pltv-name="grade tv" pltv-description="canais de tv " pltv-cover="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwRfPcX-Y60AeqAZxPMIa1AL1qMwRgiT-hBYIfjNwMTJ9c5mo" pltv-author="VAGNELSON" pltv-site="XXXXXX" pltv-email="XXX E-MAIL XXX"
+
+
+################## CANAIS ABERTOS ########################
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKSJsun64vobr91h_ng5CiPTjjOBOpOdW5oovUxrz73qBxN8t5HQ" group-title="TV ABERTA" pltv-subgroup="TV ABERTA", REDE GLOBO,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/17.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/500px-Logotipo_do_SBT.svg.png" group-title="TV ABERTA" pltv-subgroup="TV ABERTA", SBT,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/2.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh4.googleusercontent.com/-dOaWxmcQABU/TYnVzTRVe7I/AAAAAAAAAMs/b2ww0xpXWTI/s1600/Band.jpg" group-title="TV ABERTA" pltv-subgroup="TV ABERTA", BAND,
+https://www.skyiptv.com.br:25463/hls/Futebol/Paulista2019/4/c3394c87656373c0769633a4339f74f2/4_775.ts
+
+################  INFANTINS #############################
+
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155047-canal-boomerang.png" group-title="INFANTIL" pltv-subgroup="INFANTIL", BOOMERANG,
+https://clarotvlojaonline.com.br/img/channels/20151112155047-canal-boomerang.png
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-NY02_7lSltM/WdvryVXtglI/AAAAAAAAE_4/1zCTIqBdsOw2cYYDp6QgU_tWLjx2HLk5QCLcBGAs/s1600/ogLogo.png" group-title="INFANTIL" pltv-subgroup="INFANTIL", CARTOON NETWORK,
+https://www.toquemp3.com:25463/live/Futebol/Paulista2019/117.m3u8?token=QxBcWRdYGgoRAFABBlINCgZRAwELBgYFAQpeA14LBAQBBgAKVABeBwZDHxcXREpcVghtUVcUXlIJBRQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDCAEOABcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEmt8ekV0V11TRDddXl1QV1RAWVFRVVsLVUsQfxVXVEYcGlteEUBZR1NGWRoDCAQNGxkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQIQCwMICBdK
+
+#EXTINF:-1 tvg-logo="https://fontmeme.com/images/Disney-Junior-Logo.jpg" group-title="INFANTIL" pltv-subgroup="INFANTIL", DISNEY JUNIOR,
+https://www.toquemp3.com:25463/live/Futebol/Paulista2019/119.m3u8?token=QxBcWRdYGgoRAgBTVQRaCwNcA1oLBwJUXFABAglcBAFcBFALUwAAVANDHxcXREpcVghtUVcUXlIJCxQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoDDgEODhcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEmt8ekV0V11TRDddXl1QV1RAWVFRVVsLVUsQfxVXVEYcGlteEUBZR1NGWRoDCgYAGxkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQIQCQUKDwEVRQ==
+
+#EXTINF:-1 tvg-logo="https://clarotvlojaonline.com.br/img/channels/20151112155241-canal-disney-hd.png" group-title="INFANTIL" pltv-subgroup="INFANTIL", DISNEY CHANNEL,
+https://www.toquemp3.com:25463/live/Futebol/Paulista2019/118.m3u8?token=QxBcWRdYGgoRUwYABlYKWwBQVwxQVFdQAAUKUVwPBlIBUwEAUQIJA1ZDHxcXREpcVghtUVcUXlIJChQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACwoICxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEmt8ekV0V11TRDddXl1QV1RAWVFRVVsLVUsQfxVXVEYcGlteEUBZR1NGWRoBCgsPGxkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQIQCgAPDAQVRQ==
+
+#EXTINF:-1 tvg-logo="http://ap.imagensbrasil.org/images/2017/02/21/Tooncast.png" group-title="INFANTIL" pltv-subgroup="INFANTIL", TOONCAST,
+https://www.toquemp3.com:25463/live/Futebol/Paulista2019/118.m3u8?token=QxBcWRdYGgoRUwYABlYKWwBQVwxQVFdQAAUKUVwPBlIBUwEAUQIJA1ZDHxcXREpcVghtUVcUXlIJChQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoACwoICxcbGldMTAFCVlFfPldQEllbXBVfXE1fWkhBV1xnV11UVFlcEA4aVRIUEloSQxdeEmt8ekV0V11TRDddXl1QV1RAWVFRVVsLVUsQfxVXVEYcGlteEUBZR1NGWRoBCgsPGxkVW11BVhBCQRIJQ3FnRhwaXE8RV1ZAXwsNGggaXgtMDRUUEF1LO0JdQ0cTVlQJVUobDUcCGh8UCQJAbVtcVldQVExbW1YXEgISA0MfFwlfVlBDCkBnQ18AQQIQCgAPDAQVRQ==
+
+#EXTINF:-1 tvg-logo="https://t4.rbxcdn.com/644b91dea422d183b139be620104dad3" group-title="INFANTIL" pltv-subgroup="INFANTIL", NICKE LODEON,
+https://www.toquemp3.com:25463/hlsr/QxBcWRdYGgoRVQAMUgQOWw8GAggCB1VXD1cABwoOU1QKCwcKUQMJVVBDHxcXREpcVghtUVcUXlIKARQRTUpQRWdbUBpeEgkSH0NHXAlVGgMHSRBIWlJGWRoADgENGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GY310FyNdVlYWMAZUV1tcVUxbXltTV1cBQxh8RwVSF0gSWlBDF1NMVhReQQkADQYaFRdUV0daTBZJGgoRI2EXSBJdQUMAXEtaWQpBAhBVAE0BFxsaW0dnFlVLREEEUlgBQhoDFVUQFBFbBRtnUVddVlxWQ1FdWktGChoAEU0RWAteUU1YF21IWlJGWRoADgEIG0g=/Futebol/Paulista2019/123/3277ef50b216003b9ae0ed606e38dd4c/123_1427.ts
+
+###########################   ESPORTES ############################
+
+#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_08fb001c60b847468664307c11fa9dc9/static_especiais/site/especial/appsportv4knarussia/sportv_bg01_logo.png" group-title="ESPORTES" pltv-subgroup="ESPORTES", SPORTV,
+https://www.skyiptv.com.br:25463/hls/Futebol/Paulista2019/25/37e87524b158d88fcf1b941ba3af01a9/25_1720.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/SporTV_2_logotipo.png" group-title="ESPORTES" pltv-subgroup="ESPORTES", SPORTV 2,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/26.m3u8
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156907/sport-3.png?v=636632906282830000" group-title="ESPORTES" pltv-subgroup="ESPORTES", SPORTV 3,
+https://www.skyiptv.com.br:25463/hls/Futebol/Paulista2019/27/703ef1079cfa68fac4448ba199a9588d/27_1401.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png" group-title="ESPORTES" pltv-subgroup="ESPORTES", FOX SPORT,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/28.m3u8
+
+#EXTINF:-1 tvg-logo="http://sky.vteximg.com.br/arquivos/ids/156057/fox-sports-2.png?v=636446270270800000" group-title="ESPORTES" pltv-subgroup="ESPORTES", FOX SPORT 2,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/29.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/maxipfc2013.jpg" group-title="ESPORTES" pltv-subgroup="ESPORTES", PREMIERE CLUBES,
+https://www.skyiptv.com.br:25463/live/Futebol/Paulista2019/44.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/sQRYsT0Qh1U/hqdefault.jpg" group-title="ESPORTES" pltv-subgroup="ESPORTES", PREMIERE FC 1,
+https://www.skyiptv.com.br:25463/hls/Futebol/Paulista2019/35/c79709d5dc56c1fa40297a129e4ee4ae/35_0.ts
